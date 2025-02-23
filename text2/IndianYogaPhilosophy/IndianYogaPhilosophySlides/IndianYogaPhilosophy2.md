@@ -10,12 +10,12 @@
 例：定期的な運動
 ・心と体衛生、健康
 ・適切な人間関係
-YOUR WORK！
+YOUR WORK
 YOGAのための適切な食事とは？
 Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 ヨガの食事
 健康に良い食事ジタリアン
-YOUR WORK！
+YOUR WORK
 最近の自分の食生活を振り返ってみましょう！
 ヨガ食事へアプローチを真に理解するに、
 食事が心と体に与える効果について
@@ -84,7 +84,7 @@ YOUR WORK！
    工場で製造され、加工されたも、タマスティックと考え
    られる。
    過食も同様、タマスティックな食事法と考えられている。
-   YOUR WORK！
+   YOUR WORK
    自分自身食生活からどんなことが考えられますか？
    ◎タマスティックフードに含まれるも
    お酒とタバコ、酢ような発酵食品、
@@ -96,7 +96,7 @@ YOUR WORK！
    今後どように
    食生活を改善していきたいですか？
    Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
-   YOUR WORK！
+   YOUR WORK
    YOGAカテゴリー
    先生としてヨガレッスンをするとき
    どような食事を摂りますか？
@@ -130,7 +130,7 @@ YOUR WORK！
    でアクティブにする。
    Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
    タマスティック・ヨーガ
-   YOUR WORK！
+   YOUR WORK
    基本的にボディービルダーようなも。
    例:レスラーやテロリスト等
    ハタ・ヨーガ一部もこれに含まれる。
@@ -153,7 +153,7 @@ YOUR WORK！
    人「心」を表す言葉いくつかある。
    マインド・ハート・ソウル・スピリット
    「マインド＝心」
-   YOUR WORK！
+   YOUR WORK
    それぞれ違いを考えてみましょう！
    Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
    「心」を表す言葉
@@ -182,7 +182,7 @@ YOUR WORK！
    霊的な心。心に宿る高次精神ことを指す。
    脳ハードウェアであり、心(意識)ソフトウェアである。
    Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
-   YOUR WORK！
+   YOUR WORK
    脳ハードウェアであり、
    心(意識)ソフトウェアである。
    脳と心違いを
@@ -231,7 +231,7 @@ YOUR WORK！
    るである。
    Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
    心を邪悪するも
-   YOUR WORK！
+   YOUR WORK
    心(意識)を曇らせ、不健全な行動をさせる精神状態
    を、サンスクリット語で、クレシャと言う。
    クレシャ、不安や恐れ、怒り、欲望、落ち込みなど
