@@ -1,6 +1,6 @@
 インドヨガ哲学④
 講師：横幕 真理
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 アシュタンガヨガと？
 Patanjali Yoga Darshan
 Asht8を意味し、Angaパーツを意味する。
@@ -34,7 +34,7 @@ Darshan目を通して見る過程を意味する。
 カイヴァリアパダ（ヨガ到達地点）
 ４つに分かれている。
 これがパタンジャリヨガダルシャンすべてである。
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 ヨガ八支則
 ヤマ‐Yamas‐
 アヒンサ‐Ahimsa‐
@@ -65,7 +65,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
 アヒンサ：暴力的な言動を慎む
 YO WOK！
 自分が思うアヒンサと？考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 サティヤ‐atya‐
 アステア‐Asteya‐
 サンスクリット語で、at究極真実である、
@@ -87,7 +87,7 @@ Asteya盗みを慎むと訳される。
 自分が思うサティヤを考えてみましょう！
 YO WOK！
 自分が思うアステアを考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 ブラフマチャリア
 ‐Brahmacharya‐
 アパリグラハ‐Aparigraha‐
@@ -122,14 +122,14 @@ Apariguraha所有すること、貪欲になること、自分勝
 アパリグラハ：所有欲
 YO WOK！
 自分が思うアパリグラハを考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 ヤマ実践ポイント
 誰に対しても、どんな生き物に対しても、
 どんな場所であっても
 いつどんな時も
 どんな状況にあったとしても
 ヤマを守り抜く誓いを立て、実行すること。
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 ニヤマ‐Niyamas‐
 シャウチャー‐hauca‐
 ヨガ10掟（①ヤマ5つ・②ニヤマ５つ）中
@@ -156,7 +156,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
 こように、シャウチャー体と心清潔を意味する。
 YO WOK！
 自分が思うアシャウチャーを考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 サントーシャ‐antosha‐
 タパス‐apas‐
 サントーシャ「今あるもで満足する」ことである。
@@ -191,7 +191,7 @@ YO WOK！
 YO WOK！
 自分が思うサントーシャを考えてみましょう！
 自分が思うタパスを考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 スワディヤーヤ‐wadhyaya‐
 イーシュヴァラ・プラニダーナーニ
 スワディヤーヤ、スワ自身を指し、
@@ -228,4 +228,3 @@ YO WOK！
 自分が思うスワディヤーヤを考えてみましょう！
 自分が思うイーシュヴァラ・プラニダーナーニ
 を考えてみましょう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.

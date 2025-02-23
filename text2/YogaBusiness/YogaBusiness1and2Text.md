@@ -1,8 +1,7 @@
 MAJOLI RYT200 講座
 無名インストラクターでも活躍できる
 ヨガビジネス講座
-担当講師：北野 恵理
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 今日のゴール
 私にあったヨガ IR の働き方について考え、そのために何をしたら良いか行動計画を立てましょ
 う。
@@ -31,7 +30,7 @@ IR を雇う企業側も採用する際にはコミュニケーション能力�
 ・私たちの仕事は目の前にいる人が変わっていくのを見られる仕事
 ・お客様の可能性を引き出し、人の人生に影響を与えられる（変える）
 →自分が自分の過去と比べ思い込み（思考の癖）の概念で生きていると生徒は変わらない
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 瞑想は自己実現させてくれるツール
 人って一日何回思考しているでしょうか？脳はネガティブ思考をしたがります。
 ホメオスタシス 〈恒常性維持機能〉
@@ -58,7 +57,7 @@ I（情報）× V（臨場感）＝R（現実）
 マーケティングとは、その人が欲しい時に、
 欲しい商品が目の前にあるか
 人は商品を買っているのではなく、感情を買っている
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 自分軸を定める
 ・自分はなぜヨガヨガインストラクターに？
 ・何を伝えたい？（→どうしたら伝わる？）
@@ -87,7 +86,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 ・新人さん？ コールスキルがある人？
 ・思い、熱意があるか
 ・癖がないか（語尾、喋り方、コール）
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 どの働き方においても大事なこと
 ・アウトプット力（伝える力）を高める
 ・商品は自分（レッスン）
@@ -99,7 +98,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
 ヨガの先生(一生ヨガの練習生)×経営者→どうやってスキル UP させる？
 HOW TO 集客
 集客できそうなもの、媒体、方法書き出してみましょう！
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 ターゲットを決める→ペルソナ設定
 ・年齢
 ・居住地
@@ -126,7 +125,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
 ・インスタ集客 →
 ・HP 集客 →
 ・口コミ集客 →
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 SNS
 検索でヒットさせるためのキーワードが大切
 自分のターゲットに向けたキーワードを選定しインスタで集客、販売は可能
@@ -141,7 +140,7 @@ SNS
 発信し続けることで、何かしらの依頼くる。
 Instagram＝名刺代わり
 自分はこういう活動をしています！と一目でわかるもの。自分の看板
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 プロフィールが命！
 ・自分はどういう思いで、何をしている人？
 ・発信は未来の生徒様へのメッセージ
@@ -168,7 +167,7 @@ NG プロフィール
 ・どんなお客様がターゲット
 ・ヨガ（商品）に対する熱意、思い
 希少価値を生み出す 100 人に 1 人の存在 1/100×1/100
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 あなた だから 提供できる価値は？
 • 1/100×1/100＝1/10,000
 どんな人に見られたい？
@@ -196,7 +195,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
 ・ネタばれ豊富に
 ・キャンペーン、期間限定
 ・レッスン時の写真プレゼント
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 成功への最速のステップ
 ・集客できていないのであれば『コンセプト』とのずれ
 ・悩みを解消してくれる人か見られている
@@ -228,7 +227,7 @@ HP 作ると集客が受け身になる
 ・使いやすいか
 ・自分の強みは？
 ・他の人がやっていないことにチャレンジする精神
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 口コミ集客 ＝ 自分の商品力
 ・お客様の信頼
 ・ヨガスキル
@@ -251,7 +250,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
 リピーター、増枠、値段改定、収容人数、お客様の体感度をあげる、
 お客様の変化が自分の幸せ、喜び
 → お客様のレベル UP
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve
 レッスンする上で気をつけていること
 ・自分の言葉で話す
 ・日常のこと、ヨガのこと、カラダのこと
@@ -282,4 +281,4 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
 あなたのミッションは何ですか？
 ・あなたのワクワクは何ですか？
 ・ヨガを通して、何を伝えたいですか？
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserve
+ Reserve

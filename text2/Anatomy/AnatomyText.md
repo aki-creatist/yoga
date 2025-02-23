@@ -1,7 +1,6 @@
 MAJOLI RYT200 講座
 解剖学講座
-担当講師：北野 恵理
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 解剖学① 筋肉と骨
 骨格系
 1.骨の役割
@@ -12,7 +11,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 一般的な骨は、その主部をなす骨質、その表面を覆う骨膜、内部にあり造血機能を営む骨髄、
 関節面や成長期の骨幹と骨端との境目に見られる軟骨質からなる。
 基本の骨
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 胸郭
 胸郭は、胸壁の骨格であり、1 個の胸骨 12 対（24
 個）肋骨、12 個の胸椎で構成される。
@@ -32,7 +31,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 成人の正常な脊柱を横から見ると頸部と腰部では前方に軽く弯曲（前弯という）
 胸部と仙尾部では、軽く後方に弯曲（後弯という）
 全体として軽い S 字状の弯曲をかく
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 関節
 関節は、凸面をなす関節頭と、凹面をなす関節窩からなる両関節面は、関節軟骨で覆われている。
 連結部は、関節包に包まれ、そのため両関節間の間隙には関節腔が作られる。
@@ -59,7 +58,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 白筋：速い筋、瞬発力のある筋肉・持続力はないが、強い力を出せる
 赤身魚と白身魚
 短距離ランナーと長距離ランナー
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 解剖学② 立位前屈(ウッターナ・アーサナ)
 《解剖学を勉強するのは》
 ・カラダの内側と会話するため
@@ -71,7 +70,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 ・目覚めさせ方を知る
 ・お客様に体験してもらうには・・・？
 前屈が深まる効果は？ 硬くなると？
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 硬さを感じない部位まで柔らかくすることの大切さ
 前屈ができるか否かのカギを握っているのは、筋肉のみならず、
 複数の筋肉を包んでいる「一枚の筋膜」にもある
@@ -83,11 +82,11 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 2 つの関節(股関節・膝関節)をまたいで付いている。
 骨盤に直接付着していますので、この筋肉が緊張すると、
 骨盤を引き下げてしまったり、腰痛の原因となるケースが多い。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 股関節 屈曲
 股関節 屈曲 主動作筋は腸腰筋
 梨状筋
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 脊柱起立筋群
 頭〜骨盤まで幅広く付き
 ・体幹部の動き
@@ -104,7 +103,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 【さわる】両手を腰に当てて、背中側から骨盤の上側を親指で押す。
 ×10 回
 【動かす】 親指で押したまま、痛みがない範囲で腰を左右にひねったり、倒したりする。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 解剖学③ 後屈
 筋肉が収縮しようと力を発揮しながら
 後屈が苦手だとどうなる？
@@ -113,16 +112,16 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 後屈ができるか否かのカギを握っているのは、
 筋肉のみならず、複数の筋肉を包んでいる
 「一枚の筋膜」にもある
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 肋骨の構造
 背骨の胸椎から前胸部の胸骨にかけて
 軟骨などで骨同士が繋がって
 籠のような形をしている
 大胸筋
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 三角筋
 ローテーターカフ (棘上筋)
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 胸椎伸展
 前鋸筋
 ・起始は第１〜第 9 肋骨の外側の中央部に付着
@@ -130,7 +129,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 前鋸筋を意識して
 肩甲骨を前に押し出しながら動いてみましょう
 腕の根本が安定すると、手や腕への負担が軽くなります。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 菱形筋
 ・起始：第６頸椎〜第４胸椎の棘突起
 ・停止：肩甲骨の内側（肩甲骨の内側の縁）
@@ -144,9 +143,9 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 骨盤と大腿骨について、股関節をまたいでいる
 【主な動きは？】
 股関節を曲げたり、外に回したりするときに活躍
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 前脛骨筋
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 解剖学④ 肩甲骨・腹部・脚
 筋肉痛とは
 ・運動により、筋繊維や筋膜に小さな傷ができ、それを修復しようと炎症が起きている状
@@ -172,7 +171,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 水平面
 ・肩関節外旋 60° 肩関節内旋 80°
 ・股関節外旋 45° 股関節内旋 45°
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 肩甲骨の動き
 肩関節の動き
 足首・手首の動き
@@ -184,7 +183,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 肩甲骨は背中に二つある骨です。
 それぞれ鎖骨、上腕骨（うで）とつながっています。
 肩甲骨、鎖骨、上腕骨が連動して動くことにより肩をぐるぐる大きく動かすことができます。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 僧帽筋・前鋸筋・菱形筋
 僧帽筋は、上部、中部、下部に分けられ、
 背骨と肩甲骨をつなぐ大きな筋肉です。
@@ -205,7 +204,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 横筋、背中側は多裂筋、下は骨盤底筋に囲まれた部分になります。この部分にかかる圧力
 を「腹圧」と言い、腹腔内の圧力が排便・排尿を助けるほか、女性の出産の際の原動力に
 もなります。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 腹筋群
 足の骨
 足根骨 7 本・中足骨 5 本・趾骨 14 本+種子骨 2 個＝片足 28 本
@@ -221,7 +220,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 役割→力を吸収するクッションのような役割と、筋肉の力を伝える滑車のような役割を持
 っています。２つの関節が互いに協力し合って身体の動きを助け、軟骨が表面を覆ってい
 て、動きを滑らかにしている
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 解剖学⑤ 骨盤周辺編
 【解剖学的に安全に深める開脚前屈】
 股関節の外転可動域は一般的に 90°(両足)です。
@@ -247,7 +246,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 可動範囲
 外旋：０〜４５°
 内転：０〜４５°
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 安定性・可動性
 ・体を動かすには「安定性(スタビリティ)」と「可動性(モビリティ)」のバランスが大切
 ・硬い筋肉の反対側（拮抗筋）を強化すること、筋緊張をとり緩めるということ
@@ -261,7 +260,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 仙骨に続く「尾骨」でできています。さらに寛骨は、部分によって「腸骨」「恥骨」「坐
 骨」の三つに呼び名が分かれます。
 腹筋群
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 骨盤は本来、・骨盤周りの筋肉が頑丈・骨盤周りの靭帯が強靭
 ということもあり、骨盤は安定的で、歪みにくい作りになっています。
 しかし、普段の姿勢不良や、硬くなった筋肉などが原因で、徐々に骨盤を支える周りの筋肉や
@@ -271,7 +270,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 歪んでいると、どうなるでしょうか？家全体が歪み、中の家具なども真っすぐでなくなりま
 す。 筋肉や靭帯が硬い部分があると、どうしてもそちらに収縮する働きが生まれるために、硬
 い部分へと骨盤も引っ張られていくのです。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 腰方形筋
 腰方形筋は主に体幹部の側屈に大きく貢献します。筋肉の働きが弱くなると側腹部の安定
 性が保てなくなり姿勢保持にも大きく影響をきたすようになります。
@@ -289,7 +288,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 上側：大腿筋膜の外側部で腸脛靭帯（ちょうけいじんたい）に移行
 下側：大腿骨の殿筋粗面（でんきんそめん）
 伸展・外旋・外転・内転
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 中臀筋
 起始
 腸骨翼（ちょうこつよく）の殿筋面（前殿筋線と後殿筋線の間）、腸骨稜（ちょうこつり
@@ -308,7 +307,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 小臀筋（しょうでんきん）とはお尻の上部側面にあり、中殿筋の深層に位置する筋肉で
 す｡小臀筋は中殿筋とほぼ同じ作用をもち､股関節の外転の主力筋として働きます。
 また、太ももを内側に回旋する股関節の内旋動作にもわずかに作用します。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 大腿筋膜張筋：股関節屈曲・膝関節伸展
 外転
 張脛靭帯につながる
@@ -324,4 +323,3 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 下半身の軸
 内転筋から腸腰筋と繋げる
 薄筋：膝内旋
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved

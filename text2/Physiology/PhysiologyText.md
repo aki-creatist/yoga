@@ -1,8 +1,7 @@
 MAJOLI RYT200 講座
 生理学講座
 ヨガの呼吸・汗・リンパ
-担当講師：北野 恵理
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
+
 呼吸の回数
 ・成人の場合 1 分間に 12 回から 20 回呼吸をしている。
 ・ 子どもや赤ちゃんの呼吸の回数は多い。
@@ -20,7 +19,6 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 肺によって出来ている。
 ・鼻の中から肺の中の気管支の一部までが気道で、
 肺内のそれ以外の部分が呼吸部である。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 なぜ吐ききることが大切か…
 汗
 ・エクリン汗腺
@@ -29,7 +27,6 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 ・アポクリン汗腺
 脇、耳、鼻翼、乳輪、外陰部などに存在するもの。
 感情で発汗する。ベタベタ汗
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 汗の臭い
 エクリン汗腺から出る汗も時間が経つと、肌の表面にある皮脂やタンパク質と混じって臭
 いを発します。
@@ -47,7 +44,6 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 普段から運動をして新陳代謝を上げる。
 きれいな汗をかいて必要以上にドバッと出たりする局所的な汗を防ぎましょう。
 なぜ緊張すると汗が出るのか？
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 老廃物
 老廃物はどこから出ていく？
 ・約 75％ ( )
@@ -78,4 +74,3 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.
 存在します。このように、リンパ系は損傷した細胞を
 身体から排除し、感染やがんの拡大を阻止するという
 重要な機能を果たしています。
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved.

@@ -12,7 +12,7 @@
 ・適切な人間関係
 YOUR WORK
 YOGAのための適切な食事とは？
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 ヨガの食事
 健康に良い食事ジタリアン
 YOUR WORK
@@ -27,7 +27,7 @@ YOUR WORK
 3. タマスティックフード 不純な体を作る。
    (タマス-暗い、不活動、ろい性質)
    普段どんなもを好んで食べていますか？
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    サトヴィックフード
    ヨガ食事ベジタリアンであり、
    完全に非動物性食べ物でできている。
@@ -53,7 +53,7 @@ YOUR WORK
    新鮮な果物と野菜、乳製品、ナッツ、穀物種子、スプラウト
    新芽、乾燥したえんどう豆、ちみつ、
    新鮮で自然な果汁、ハーブティー、純水、など。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    ラジャスティックフード
    タマスティックフード
    ラジャスティックな食べ物肉体を活動的にするが、
@@ -79,7 +79,7 @@ YOUR WORK
    タマスティックな食べ物悪臭がし、残り物だったり、
    保存食だったり、こげていたり、味がなかったり、純粋で
    なかったりする。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    タマスティックフード
    工場で製造され、加工されたも、タマスティックと考え
    られる。
@@ -95,7 +95,7 @@ YOUR WORK
    保存されているも(新鮮でないも)
    今後どように
    食生活を改善していきたいですか？
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    YOUR WORK
    YOGAカテゴリー
    先生としてヨガレッスンをするとき
@@ -107,7 +107,7 @@ YOUR WORK
    ヨガにも３つカテゴリーがある。
    ヨガカテゴリーヨガ目的を、
    肉体、精神、魂、どこに置くかで分かれる。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    サトヴィック・ヨーガ
    ラジャスティック・ヨーガ
    力を入れて(力づくで)ヨガをすること。
@@ -128,7 +128,7 @@ YOUR WORK
    例:ハタ・ヨガ、パワーヨガ、ホットヨガ等
    自分をコントロールしながらも、肉体を力づく
    でアクティブにする。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    タマスティック・ヨーガ
    YOUR WORK
    基本的にボディービルダーようなも。
@@ -144,7 +144,7 @@ YOUR WORK
    －なぜ？と自分に問いかけ、自分なり答えを
    自分言葉で言語化するくせをつけましょう！
    欲や怒りをコントロールできない。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    マインドと
    「マインド」を直訳すると、「心」「精神」を表す。
    肉体対義語として、
@@ -155,7 +155,7 @@ YOUR WORK
    「マインド＝心」
    YOUR WORK
    それぞれ違いを考えてみましょう！
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    「心」を表す言葉
    マインドについて
    マインド
@@ -181,7 +181,7 @@ YOUR WORK
    できる。
    霊的な心。心に宿る高次精神ことを指す。
    脳ハードウェアであり、心(意識)ソフトウェアである。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    YOUR WORK
    脳ハードウェアであり、
    心(意識)ソフトウェアである。
@@ -189,7 +189,7 @@ YOUR WORK
    自分言葉で説明してみましょう！
    心(意識)と脳
    ソフトウェアとハードウェアに例えることができる。
-   Copyright ©2021 MAJOLI Co.,Ltd.All Rights Reserved.
+
    心(意識)について
    1.意識
    私たち異なるタイプ心(意識)を持っており、
@@ -208,7 +208,7 @@ YOUR WORK
    例え、自分周り状況、自分呼吸、
    そしていま自分が座っている椅子についても
    気づいている状態である。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    2.潜在意識
    3.無意識
    深い睡眠時状態である。
@@ -229,7 +229,7 @@ YOUR WORK
    より、心安定し、そして心が安定すると、それ
    魂領域に達し、そ人本当状態に至
    るである。
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   
    心を邪悪するも
    YOUR WORK
    心(意識)を曇らせ、不健全な行動をさせる精神状態
@@ -241,4 +241,4 @@ YOUR WORK
    部分である。
    今あなたが不安に思うこと、
    恐れを感じていること、落ち込むこと何ですか？
-   Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+   

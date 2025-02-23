@@ -1,7 +1,6 @@
 MAJOLI RYT200 取得講座
 クラスデザイン
-担当講師:北野恵理
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 最初に
 ヨガのクラスを創るには様々な方法がありますが、
 最も大切なことは「創る本人がヨガの練習生である」ことです。
@@ -27,7 +26,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 (声・照明・音・世界観)
 ・オープニング、クロージングの内容を繋げる
 ・1 レッスンを通して、ポイントや効果で体感させる
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 ①形
 ・座位 例:合せきのポーズ
 ・立位 例:ウォーリヤⅡ
@@ -54,7 +53,7 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 ・初心者
 ・中級者
 ・上級者
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 フォーム(形)-アライメントベース
 目的：自分の身体の特性に気づき、身体の使い方を理解することにより、
 アライメントの整ったアーサナを練習することができ、より効果を得る
@@ -83,4 +82,3 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 ・3-4 つシークエンスをテーマに即して構築する
 ・ダイナミックな動作と呼吸をするため、肩甲骨を動かすなど身体の準備をする
 ・デモンストレーションは最小限にし、休憩(水)の時間をとる
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved

@@ -1,6 +1,6 @@
 インドヨガ哲学③
 講師：横幕 真理
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 心を邪魔するも
 心（意識）を曇らせ、不健全な行動をさせる精神状態を
 サンスクリット語で、 クレシャと言う。（煩悩）
@@ -20,13 +20,13 @@ YOW WOK！
 ３、aga（ラーガ）- 執着
 ４、Dversha（ドゥヴェーシャ）- 嫌悪
 ５、Abhinnvesha（アビニヴェーシャ）-死へ恐怖
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 YO WOK！
 繰り返し起こっている、自分と自分家族を
 苦しめていることを考えてみましょう。
 Meditation ime
 浮かんできたことを書き出してみましょう。
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 １、Avidya（アヴィディヤ）
 無知。
 無知、他すべてクレーシャ原因であり、
@@ -47,7 +47,7 @@ YO WOK！
 に会いたくない
 と関わりたくない
 することに時間を使いたい
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 YO WOK！
 ２、Asmita（アスミタ）
 アスミタについて自分自身を省いてみよう！
@@ -62,7 +62,7 @@ YO WOK！
 なぜなら だから
 私 するくらいなら を失う方が良い
 私苦しいけれど よりもましだ
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 YO WOK！
 ３、aga（ラーガ）
 ラーガについて自分自身を省みてみよう！
@@ -78,7 +78,7 @@ YO WOK！
 それがないと私 と感じる
 でもそせいで私 を諦めなけれならない
 でも、それがあると を失いそうでこわい
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 ４、Dversha（ドゥヴェーシャ）
 YO WOK！
 ドゥヴェーシャについて自分自身を省みてみよう！
@@ -94,7 +94,7 @@ YO WOK！
 私にとって だから腹が立つ
 私 と関係に厳しい
 絶対に私 しない
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 YO WOK！
 ５、Abhinnvesha（アビニヴェーシャ）
 アビニヴェーシャについて自分自身を省みてみよう！
@@ -108,7 +108,7 @@ YO WOK！
 私 前に必ず を確認する
 私 を聞くと眠れない
 私 に関して誰も信用できない
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 クレシャ
 クレシャと向き合う
 基本的に、私たち人間が幸せに、楽しく、生きがいに
@@ -125,7 +125,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
 私たちひとりひとりが、純粋で、十分で、美しく、、、
 愛そもであり、愛し愛される人間ということを、理解し
 ま しょう。
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 クレシャから解放される方法
 YO WOK！
 心悩み、心を正すことで解決します。
@@ -142,7 +142,7 @@ YO WOK！
 私人が するを理解できる
 私 をやめられる
 私 である
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 身体種類
 I am not perfect but I am enough.
 わたし完璧でない、
@@ -154,7 +154,7 @@ I am not perfect but I am enough.
 １、Gross Body /粗大身/ストゥーラシャリラ
 ２、ubtle Body/微細身/スクシュマシャリラ
 ３、Causal Body/原因身/カーラナシャリラ
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 １、Gross Body /粗大身/ストゥーラシャリラ
 ２、ubtle Body/微細身/スクシュマシャリラ
 5つ5大元素（Panchmahabhutas）から成る肉体を指して
@@ -175,7 +175,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
 体がつくられる。
 微細身、肉体が滅び最後粒子までもが全て消え滅び
 た時に完全になくなる。
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 ２、ubtle Body/微細身/スクシュマシャリラ
 ３、Causal Body/原因身/カーラナシャリラ
 微細身に、外側に存在する臓器と対応している部分が
@@ -197,7 +197,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
 Maya （幻）へ執着と、“ヴァサナ”と呼れる現世物質
 や快楽へ強烈な欲望も原因身（カーラナシャリラ）と共に
 ある。
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 ５大要素
 5大元素、もしくパンチャ・マハブータ、 空、風、火、水、
 地５つであり、肉体と微細身元となるもである。
@@ -219,7 +219,7 @@ Yogaヨガを意味し、Darshan、目を通して見る過程を
 どうやるか）、ビ ブーティパダ（ヨガ効果）、カイヴァリ
 アパダ（ヨガ到達地点）４つに分かれ ている。
 これがパタンジャリ、ヨーガダルシャンすべてである。
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
+
 アシュタンガ・ヨガを行う際に覚えておくこと
 アシュタンガ・ヨーガを練習する際、いくつかポイントを頭に入れておくこと
 1.身体・身体中、そして呼吸動きに集中すること
@@ -229,4 +229,3 @@ Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.
 4.練習際、クラスに意識を集中すること
 5.プラナヤマを練習する際、呼吸に集中すること
 6.クラスで指導に従うこと
-Copyright © 2020 MAJOLI Co., Ltd. All ights eserved.

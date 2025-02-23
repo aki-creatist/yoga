@@ -1,7 +1,6 @@
 MAJOLI RYT200 取得講座
 指導法
-担当講師:北野恵理
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
+
 ポイントの伝え方
 ・体の部位を的確に、正しい日本語を
 ・肯定文を使うように心がける(～しないように✕)
@@ -28,4 +27,3 @@ Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved
 ・音楽
 ・清潔さ
 ・グッズ
-Copyright © 2023 MAJOLI Co., Ltd. All Rights Reserved

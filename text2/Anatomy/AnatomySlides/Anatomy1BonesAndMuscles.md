@@ -9,11 +9,9 @@
 3.骨の構造
 一般的な骨は、その主部をなす骨質、その表面を覆う骨膜、内部にあり造血機能を営む骨髄、
 関節面や成長期の骨幹と骨端との境目に見られる軟骨質からなる。
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 2
 基本の骨
 3
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 胸郭
 胸郭は、胸壁の骨格であり、
 1個の胸骨12対（24個）肋骨、
@@ -23,7 +21,6 @@ Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 肋軟骨をかいして胸骨とは直接には連結しない。
 第11、12肋骨は、胸骨とは直接連結しない。
 4
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 脊柱
 骨の数、頸椎 7個、胸椎12個、腰椎5個、仙骨1個（5個の仙椎が融合）
 尾骨1個（3〜5の尾椎が融合）
@@ -37,7 +34,6 @@ Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 胸部と仙尾部では、軽く後方に弯曲（後弯という）
 全体として軽い S字状の弯曲をかく
 5
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 関節
 関節は、凸面をなす関節頭と、凹面をなす関節窩からなる
 両関節面は、関節軟骨で覆われている。
@@ -45,7 +41,6 @@ Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 関節には、靭帯がある。
 靭帯によって、一方向の運動を指示し、
 それ以外の方向への運動を抑制する働きをしている。
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 6
 関節の種類1.骨の数による分類
 単関節：２個の骨による関節
@@ -64,11 +59,9 @@ Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 （上下橈尺関節、正中環軸関節）
 ⑦平面関節：わずかな滑り運動を行う関節
 （椎間関節、仙腸関節など）
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
 7
 筋肉の種類
 筋頭
 筋腹
 筋尾
 8
-Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved

@@ -30,7 +30,7 @@ MAJOLI（マジョリ）のRYT200資格講座へようこそ！
 ・マタニティヨガ〜幸せのマタニティヨガ〜
 ・ヨガビジネス
 ・ラージャヨガ
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 イントロダクション ‐はじめに‐
 インド思想とは
 この講座では、
@@ -54,7 +54,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 この中のヨーガ学派の哲学をこれから学んでいきます。
 インドのヨガ哲学が
 いつかあなたの人生のお役に立ちますように・・・
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 What is YOGA ?
 ヨガとは
 YOGAの定義
@@ -68,7 +68,7 @@ YOGAの定義
 • ガンディーによるギータの序文によると、
 「ヨガとは、肉体と心と魂のすべての力を神に結合させることであり、また知性と精神と感情と意志の鍛錬であ
 り、それは人生のあらゆる角度から平等に観ることができる魂の安定を意味する」とされている。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 YOGAの歴史
 前・古典派YOGA
 ヨガの歴史は、聖典が口伝えで伝えられてきたこと、
@@ -92,7 +92,7 @@ YOGAの歴史
 磨かれ、発展していった。
 リシ達は、彼らの習慣や信仰を200以上の章からなるウ
 パニシャッドに記している。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 前・古典派YOGA
 古典YOGA
 最も有名なヨガに関する文献は、紀元前500年ごろ
@@ -116,7 +116,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 まとめた。
 パタンジャリは、ヨガの父と呼ばれ、彼のヨガ・スートラ
 は現代のほとんどのヨガに強い影響を与えている。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 古典YOGA後
 近現代
 パタンジャリの時代から数世紀後、ヨガの指導者は
@@ -144,7 +144,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 ハタ・ヨガの学校を開き、シヴァナンダは1936年にガン
 ジス河のほとりにシヴァナンダ・アシュラム(the Divine
 Life Sociey)を創立した。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 近現代
 2000年代のYOGA
 クリシュナマチャリヤは、今日でも彼の伝説を伝え、ハ
@@ -161,7 +161,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 そして、9つのアシュラムと世界中に数々のヨーガセン
 ターを設立した。
 例：SUPヨガ、アクロヨガ、ホットヨガなど
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 YOUR WORK
 現代のYOGA
 あなたはどのようにヨガ歴史の変化を見ますか？
@@ -178,11 +178,11 @@ YOUR WORK
 ほとんどの場合、アーサナがヨガとして提供されていま
 すが、本来のヨガは自身との繋がりを感じ、心と身体を
 繋げることで自身の目覚めを培うものとされています。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 YOUR WORK
 あなたは現代のヨガについてどう考えますか？
 歴史を振り返って考えてみましょう！
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 YOGAとは？
 簡単に言うと、ヨガとは、心と身体と魂をひとつに繋ぐとこと。
 -ヨガとは身体と心と呼吸の調和
@@ -194,7 +194,7 @@ YOGAとは？
 YOUR WORK
 あなたにとってのYOGAとは？
 -自分の言葉で表現してみよう-
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 YOGAの種類 １、バーヴァナ・ヨガ
 （心の状態をコントロールする）
 古代の専門書によると、ヨガには2つのタイプがある。
@@ -216,7 +216,7 @@ YOGAの種類 １、バーヴァナ・ヨガ
 深い瞑想の中で、自分の意識の特徴をじっと見つめ、洞
 察と完全な自己実現に至る。
 アシュタンガ・ヨガ、ハタ・ヨガ、クンダリーニ・ヨガ
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 バクティ・ヨガ －献身のヨガ
 バクティ・ヨガは、バクティと呼ばれる神への献身愛を常に心
 に抱く精神の実践のことを言う。
@@ -245,7 +245,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 人類の役に立つということ。
 神にすべての行動とその成果を捧げることで、あなたは自由で楽
 しく平和でいられるという考え方へ導く。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 ラージャ・ヨガ －ヨガへの高貴な道
 ラージャ・ヨガは高貴な瞑想である。
 ラージャ・ヨガはスワミ・ヴィヴェカナンダがパタンジ
@@ -273,7 +273,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 アサナは外的な活動だと言っている。
 そして、全９ステップでヨガを説明し、最終段階にはヨガの究極の
 目的である、自己と一つになることと記している。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 プラーナサマヤマナ・ヨガ
 ハタ・ヨガ
 ハタ・ヨガは、「ハタ・ヨガ・プラディーピカー」の中ではアディナサ
@@ -302,7 +302,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 されたときに活性化され跳ね起きる。
 このヨガは、クンダリニーを活性化させるために、ハタ・ヨガのすべてのテクニ
 ック、アーサナ、プラナヤマ、クレンジングプロセスなどを用いる。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 ヨガとは？
 一言で表すと、
 ヨガとは
@@ -317,7 +317,7 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 は、身体を整えるのみで精神は整えられない。
 ヨガのエクササイズは、宇宙のエネルギーと共に身体を充
 電する。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
+
 ヨガの効果
 ヨガを行うことで、下記のような効果が得られる。
 ・完璧な均衡と調和を達成の達成
@@ -339,4 +339,3 @@ Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.
 バガヴァッド・ギーターによると、“すべての欲望から自由になり
 精神が完全に統制されたとき、人はヨガを達成し、己と一つに
 なると言われる。そして、己に溶け込み完全に一つとなる”。
-Copyright © 2021 MAJOLI Co., Ltd. All Rights Reserved.

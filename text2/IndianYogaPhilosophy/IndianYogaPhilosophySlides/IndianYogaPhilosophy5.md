@@ -1,6 +1,6 @@
 インドヨガ哲学➄
 講師：横幕 真理
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 第三段階：Asanas:アサナ
 体位、ポーズこと。
 アサナ身体安定と健康をもたらし、身体を軽くする。
@@ -21,7 +21,7 @@ YOUR WORK
 あなたにとってアサナと？
 なぜあなたアサナを実践していますか？
 アサナ名前を調べてみよう！
-Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+
 第四段階：Pranayama:プラナヤマ
 プラーナヤーマと
 聖人パタンジャリ、ヨーガ・スートラ中で、プラーナヤー
@@ -55,7 +55,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
    もしくプラカ・クンバカとして知られており、吐いて
    から止めるも、バヤ・クンバカ、もしくシュンヤ
    ・クンバカとしても知られている。
-   Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+   
    呼吸科学
    ヨギ寿命日数でなく、呼吸回数でかられる。
    →ゆっくりと深いリズミカルな正しい呼吸
@@ -76,7 +76,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
    →呼吸をコントロールするためにプラナヤマを学ぶ。
    コントロールできるようになったら、第5段階へ入る。こときじめて精神統一準備ができたといえる。
    YOUR WORK 自分呼吸と感情について考えてみよう！
-   Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+   
    第五段階：プラティヤハーラ
    第六段階：ダーラナー
    感覚や欲望に支配されることがなくなる段階。
@@ -103,7 +103,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
    もダーラナー状態にあることがダーラナー
    本質。
    ”今ここ”、”今こ瞬間”に身を置くこと。
-   Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+   
    AUM
    集中するために、 神象徴である聖音「AUM」がある。
    AUM（アウム）
@@ -142,7 +142,7 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
    AUM聖音を加えることによって感覚、意識、知性、心、
    理性すべてを統一し、
    AUMマントラ意味と感じを体感する。
-   Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+   
    第七段階：ディヤーナ
    第八段階：サマーディ
    Dhyana サンスクリット語で〈瞑想）を意味する。
@@ -167,4 +167,4 @@ Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
    心と理性働きあたかも目覚めているように
    敏捷であり、意識を超越している（超意識）状態。
    こ状態になると、心に「魂詩」が湧き出てくる。
-   Copyright © 2020 MAJOLI Co., Ltd. All Rights Reserved.
+   
