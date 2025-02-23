@@ -1,5 +1,4 @@
 インドヨガ哲学④
-講師：横幕 真理
 
 アシュタンガヨガと？
 Patanjali Yoga Darshan
