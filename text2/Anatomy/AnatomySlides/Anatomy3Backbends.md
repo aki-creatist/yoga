@@ -1,58 +1,57 @@
-# 解剖学③ 後屈
-
-## 1. 後屈の解剖学
-
-### 後屈が苦手だとどうなる？
-- 胸椎や股関節の可動域が狭くなり、動作が制限される
-- 腰に負担がかかり、痛みを引き起こしやすい
-- 呼吸が浅くなり、酸素の供給が減少
-
-### 後屈が深まる効果
-- **柔軟性の向上**: 胸椎や股関節の可動域が広がる
-- **姿勢改善**: 猫背や巻き肩の解消
-- **呼吸の改善**: 肺が広がりやすくなり、深い呼吸が可能に
-- **ストレス軽減**: 胸を開くことで自律神経が整う
-
----
-
-## 2. 筋膜の重要性
-- **後屈の柔軟性は筋肉だけでなく、筋膜にも影響される**
-- **全身の連動性を意識し、筋膜の柔軟性を高めることが重要**
-- **特定の筋肉だけでなく、全身のバランスを整えるアプローチが必要**
-
----
-
-## 3. 関与する筋肉
-
-### 胸郭・肩周り
-- **大胸筋**: 胸を開く動作に関与
-- **三角筋**: 肩の安定性をサポート
-- **ローテーターカフ（棘上筋）**: 肩関節の回旋と安定性を担う
-- **前鋸筋**: 肩甲骨を前に押し出し、腕の負担を軽減
-- **菱形筋**: 肩甲骨を安定させる
-
-### 体幹・脊柱
-- **胸椎伸展筋群**: 背骨の可動域を拡大し、正しい姿勢を維持
-- **脊柱起立筋**: 体幹の伸展・側屈・回旋をサポート
-
-### 下半身
-- **腸腰筋**: 股関節の屈曲を助け、骨盤の安定に影響
-- **前脛骨筋**: 足首の柔軟性を高め、全身のバランスをサポート
-
----
-
-## 4. 実践的なアプローチ
-
-### 胸椎伸展を深めるポイント
-1. 胸を開く意識を持つ
-2. 肩甲骨を寄せる
-3. 呼吸を深くし、肋骨を広げる
-
-### 前鋸筋を意識する動き
-1. 肩甲骨を前に押し出しながら動く
-2. 腕の根本を安定させ、負担を軽減
-
-### 腰の負担を軽減するポイント
-1. 股関節を柔軟にする
-2. 腸腰筋を鍛え、腰椎への負担を減らす
-3. 腰ではなく胸椎を意識して後屈を行う
+解剖学講座③
+後屈
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+1
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+2
+後屈苦手だとどうなる？ 後屈が深まる効果は？
+3
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+硬さを感じない部位まで
+柔らかくすることの大切さ
+後屈ができるか否かのカギを握っているのは、
+筋肉のみならず、
+複数の筋肉を包んでいる「一枚の筋膜」にもある
+4
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+5
+大胸筋
+6
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+三角筋
+7
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+ローテーターカフ (棘上筋)
+8
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+9
+胸椎伸展
+10
+前鋸筋
+● 起始は第１～第9肋骨の外側の中央部に付着
+● 停止は肩甲骨の裏の内側に付着
+11
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+前鋸筋を意識して
+肩甲骨を前に押し出しながら動いてみましょう
+腕の根本が安定すると、
+手や腕への負担が軽くなります。
+12
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+菱形筋
+● 起始：第６頸椎～第４胸椎の棘突起
+● 停止：肩甲骨の内側（肩甲骨の内側の縁）
+13
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+14
+腸腰筋
+15
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
+16
+前脛骨筋
+17
+Copyright © 2022 MAJOLI Co., Ltd. All Rights Reserved
